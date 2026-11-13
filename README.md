@@ -1,27 +1,17 @@
 <img alt="Cauan Melo, Desenvolvedor Full Stack" src="assets/header.svg" width="100%">
 
-Desenvolvo sistemas web, painéis administrativos e APIs REST, da modelagem do banco de dados à interface, integrações e implantação. Em fase final de Análise e Desenvolvimento de Sistemas, buscando minha primeira oportunidade como desenvolvedor, em regime remoto.
+<img alt="Sobre mim" src="assets/about.svg" width="100%">
 
-[Portfólio](https://cauan.dev/) · [Currículo](https://cauan.dev/curriculo.pdf) · [LinkedIn](https://www.linkedin.com/in/cauan-melo-a050b61a9/)
+<a href="https://cauan.dev/"><img alt="Portfólio" src="assets/btn-portfolio.svg"></a>
+<a href="https://cauan.dev/curriculo.pdf"><img alt="Currículo" src="assets/btn-curriculo.svg"></a>
+<a href="https://www.linkedin.com/in/cauan-melo-a050b61a9/"><img alt="LinkedIn" src="assets/btn-linkedin.svg"></a>
 
-<img alt="" src="assets/rain-strip.svg" width="100%">
+<img alt="Stack" src="assets/h-stack.svg" width="100%">
 
-## Stack
+<img alt="Python, FastAPI, PHP, Laravel, React, TypeScript, PostgreSQL, MySQL, Redis, Docker, Electron, Git" src="assets/stack.svg" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Python, FastAPI, PHP, Laravel, React, TypeScript, PostgreSQL, MySQL, Redis, Docker, Electron, Git" src="assets/stack-dark.svg">
-</picture>
+<img alt="Projetos" src="assets/h-projetos.svg" width="100%">
 
-## Projetos
+<a href="https://estruturapublica.com.br/"><img alt="Estrutura Pública" src="assets/card-estrutura.svg" width="100%"></a>
 
-**[Estrutura Pública](https://estruturapublica.com.br/)**
-Plataforma SaaS multi-tenant de gestão de pessoas e folha de pagamento para órgãos públicos de Alagoas. Gera os arquivos do SIAP/TCE-AL, guarda o histórico de cada alteração para auditoria e inclui aplicativo para Windows, Portal da Transparência e painel administrativo. Em desenvolvimento, código privado.
-`Python` `FastAPI` `PostgreSQL` `Redis` `React` `TypeScript` `Electron` `Docker`
-
-**Widget Monitor**
-Widget de desktop para Windows que fica fixo na área de trabalho e mostra, em tempo real, temperatura, uso e frequência de CPU e GPU, RAM, disco, rede e bateria. Inclui overlay para jogos e página para acompanhar pelo celular.
-`Python` `PySide6` `psutil` `PyInstaller`
-
-<img alt="" src="assets/rain-strip.svg" width="100%">
+<img alt="Widget Monitor" src="assets/card-widget.svg" width="100%">
