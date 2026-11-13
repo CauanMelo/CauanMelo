@@ -14,4 +14,4 @@
 
 <a href="https://estruturapublica.com.br/"><img alt="Estrutura Pública" src="assets/card-estrutura.svg" width="100%"></a>
 
-<img alt="Widget Monitor" src="assets/card-widget.svg" width="100%">
+<a href="https://github.com/CauanMelo/WidgetMonitor"><img alt="Widget Monitor" src="assets/card-widget.svg" width="100%"></a>
